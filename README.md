@@ -27,27 +27,35 @@ Dos enteros $N$ y $M$, que es el tamaño de la matriz que ocupa _Avvb_ en su pro
 La contraseña del celular de _Avvb_ con un salto de linea(números enteros), de acuerdo a su procedimiento, si no
 logras encontrar la contraseña entonces imprime "_avvb_ no tiene ningun tipo de contrasena" sin ñ  para evitar problemas en los casos de prueba, sin las comillas y con un salto de linea.
 
-# Ejemplo
+# Ejemplo 1
 
-||input
-1
+input
+
+1 
 5
-||output
+
+output
+
 235
-||description
-Al realizar el procedimiento de _Avvb_ la matriz resultante es:
-1 2 3 4 5
-y al hacer el recorrido habitual de una matriz,
-solamente nos encontramos con los números primos
-2, 3 y 5
-||input
+
+description
+
+Al realizar el procedimiento de _Avvb_ la matriz resultante es: 1 2 3 4 5 y al hacer el recorrido habitual de una matriz, solamente nos encontramos con los números primos 2, 3 y 5
+
+# Ejemplo 2
+
+input
+
 10
 10
-||output
+
+output
+
 2357374143116771138397894761733159791729532319
-||description
+
+description
+
 Realizar el procedimiento de _Avvb_
-||end
 
 # Límites
 
