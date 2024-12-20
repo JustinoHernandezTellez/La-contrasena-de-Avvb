@@ -8,7 +8,7 @@ No guardes tu respuesta en una variable de tipo **int** o **unsigned long long**
 ### Sugerencia 2
 
 Para solucionar este problema ademas de hacer un algoritmo para recorrer la matriz de forma de espiral, hay que pensar en como obtener una complejidad de $O(1)$
-en cada pregunta que hacemos para saber si un numero es primo o no _(Hay que tener en cuenta que la complejidad que buscamos de  $O(1)$ es la complejidad para determinar si un numero es primo o no en una pregunta)_
+en cada pregunta que hacemos para saber si un numero es primo o no (Hay que tener en cuenta que la complejidad que buscamos de  $O(1)$ es la complejidad para determinar si un numero es primo o no en una pregunta)
 
 ### Sugerencia 3
 
